@@ -23,16 +23,9 @@ CentOS là viết tắt của **C**ommunity **ENT**erprise **O**perating **S**ys
 
 ### Các phiên bản phát hành của CentOS
 
-Số phiên bản của CentOS có hai phần, một phiên bản chính và một phiên bản nhỏ,
-tương ứng với phiên bản chính và cập nhật của Red Hat Enterprise Linux được sử
-dụng để xây dựng là phiên bản của CentOS. Ví dụ, CentOS 4.4 được xây dựng từ các
-gói nguồn từ Red Hat Enterprise Linux 4 cập nhật 4. Từ giữa 2006, bắt đầu với phiên
-bản 4.4 (chính thức được gọi là Red Hat Enterprise Linux 4.0 cập nhật 4), Red Hat đã
-thông qua một quy ước phiên bản giống hệt của CentOS, ví dụ như, Red Hat
-Enterprise Linux 4.5.
+Số phiên bản của CentOS có hai phần, một phiên bản chính và một phiên bản nhỏ, tương ứng với phiên bản chính và cập nhật của Red Hat Enterprise Linux được sử dụng để xây dựng là phiên bản của CentOS. Ví dụ, CentOS 4.4 được xây dựng từ các gói nguồn từ Red Hat Enterprise Linux 4 cập nhật 4. Từ giữa 2006, bắt đầu với phiên bản 4.4 (chính thức được gọi là Red Hat Enterprise Linux 4.0 cập nhật 4), Red Hat đã thông qua một quy ước phiên bản giống hệt của CentOS, ví dụ như, Red Hat Enterprise Linux 4.5.
 
-Bắt đầu với phiên bản 7.0 trở đi, các số phiên bản CentOS sẽ bao gồm thêm một
-phần số cho biết tháng năm của mã nguồn hệ điều hành CentOS phát hành. Ví dụ phiên bản 7.0-1406, cho biết bản cập nhật thứ 0 đầu tiên của CentOS 7, trong khi "1406" chỉ ra rằng bản này phát hành tháng 6 năm 2014.
+Bắt đầu với phiên bản 7.0 trở đi, các số phiên bản CentOS sẽ bao gồm thêm một phần số cho biết tháng năm của mã nguồn hệ điều hành CentOS phát hành. Ví dụ phiên bản 7.0-1406, cho biết bản cập nhật đầu tiên của CentOS 7, trong khi "1406" chỉ ra rằng bản này phát hành tháng 6 năm 2014.
 
 Phiên bản mới nhất hiện nay của CentOS là 7.6-1810.
 
